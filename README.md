@@ -56,4 +56,4 @@
 
 ## 6. Conclusion
 
-[Summarize the main insights gained from the data cleaning and analysis. What are the key takeaways from this project?]
+[Summarize the main insights gained from the data cleaning and analysis. What are the key takeaways from this project]
